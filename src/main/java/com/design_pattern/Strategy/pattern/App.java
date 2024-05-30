@@ -1,9 +1,4 @@
-package com.design_pattern.Strategy;
-
-import com.design_pattern.Strategy.pattern.Book;
-import com.design_pattern.Strategy.pattern.MembershipDiscount;
-import com.design_pattern.Strategy.pattern.NoDiscount;
-import com.design_pattern.Strategy.pattern.SeasonalDiscount;
+package com.design_pattern.Strategy.pattern;
 
 public class App {
     public static void main(String[] args) {

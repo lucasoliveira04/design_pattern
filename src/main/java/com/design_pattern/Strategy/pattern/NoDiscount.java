@@ -1,8 +1,10 @@
 package com.design_pattern.Strategy.pattern;
 
-public class NoDiscount implements DiscountStrategy{
+// Estratégia que não aplica nenhum desconto
+public class NoDiscount implements DiscountStrategy {
     @Override
     public double applyDiscount(double price) {
+        // Retorna o preço original sem desconto
         return price;
     }
 }
