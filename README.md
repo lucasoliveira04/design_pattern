@@ -13,5 +13,5 @@ A reutilização de padrões de design ajuda a evitar problemas sutis que podem 
 
 | Design       | Descrição |
 |--------------| --- |
-| [Strategy]() |  O padrão Strategy permite definir uma família de algoritmos, encapsulá-los e torná-los intercambiáveis. Isso promove maior flexibilidade e reutilização de código, separando os algoritmos dos clientes que os utilizam.   |
+| [Strategy](https://github.com/lucasoliveira04/design_pattern/blob/master/Strategy/Startegy.md) |  O padrão Strategy permite definir uma família de algoritmos, encapsulá-los e torná-los intercambiáveis. Isso promove maior flexibilidade e reutilização de código, separando os algoritmos dos clientes que os utilizam.   |
 
